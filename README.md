@@ -1,3 +1,4 @@
 # The Spark Foundation #
-GRIP Data Science and Business Analytics Internship 
+## Graduate Rotational Internship Program ## 
+Data Science and Business Analytics Internship 
 
